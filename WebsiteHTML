@@ -4,18 +4,16 @@
   <head>
     <link href="WebsiteCSS" rel="stylesheet" />
   </head>
-  <h1>Dasmoto's Arts & Crafts</h1>
-  <h2 class="Brushes">Brushes</h2>
+  <h1>Velvet Bat Designs</h1>
+  <h2 class="Cosplay">Brushes</h2>
   <body>
     <img src="hacksaw.jpeg" />
     <h3>Hacksaw Brushes</h3>
     <p>
-      Made of the highest quality oak, Hacksaw brushes are known for their
-      weight and ability to hold paint in large amounts. Available in different
-      sizes. <span class="blueBold">Starting at $3.00 / brush.</span>
+      Cats are the best
     </p>
   </body>
-  <h2 class="Frames">Frames</h2>
+  <h2 class="Frames">Archery</h2>
   <body>
     <img src="frames.jpeg" />
     <h3>Art Frames (assorted)</h3>
